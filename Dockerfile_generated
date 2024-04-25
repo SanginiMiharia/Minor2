@@ -1,0 +1,6 @@
+FROM sangini
+WORKDIR sa
+CMD ls
+ENTRYPOINT aa
+ENV rsa
+EXPOSE 66
